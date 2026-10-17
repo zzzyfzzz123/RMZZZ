@@ -1,0 +1,7 @@
+Objects/
+Listings/
+*.axf
+*.hex
+*.bin
+*.uvguix.*
+.vscode/
