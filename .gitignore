@@ -1,7 +1,14 @@
-Objects/
-Listings/
-*.axf
-*.hex
-*.bin
-*.uvguix.*
+# Keil 编译产物
+**/Objects/
+**/Listings/
+**/*.axf
+**/*.hex
+**/*.bin
+**/*.o
+**/*.d
+**/*.map
+**/*.htm
+**/*.dep
+**/.uvguix.*
+**/.uvoptx
 .vscode/
