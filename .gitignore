@@ -9,6 +9,7 @@
 **/*.map
 **/*.htm
 **/*.dep
-**/.uvguix.*
-**/.uvoptx
+**/*.uvguix.*
+**/*.uvoptx
+**/*.lnp
 .vscode/
